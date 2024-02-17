@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: otkhwae/devopsapp:1.0.0
         ports:
-        - containerPort: 8081
+        - containerPort: 8082
